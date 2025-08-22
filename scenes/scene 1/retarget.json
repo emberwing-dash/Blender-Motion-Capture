@@ -1,0 +1,17 @@
+{
+    "rokoko_custom_names": true,
+    "version": 1,
+    "bones": {
+        "custom_bone_spine2": [
+            "spine2",
+            "mixamorig:spine1"
+        ],
+        "rightUpperArm": [
+            "mixamorig:rightarm"
+        ],
+        "leftUpperArm": [
+            "mixamorig:leftarm"
+        ]
+    },
+    "shapes": {}
+}
